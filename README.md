@@ -12,4 +12,4 @@ Trap model was created using all files in 5P collection
 
 ### 2-step-the-future-128
 
-2-step model using 6 MIDI files from The Future sample pack
+2-step model using 6 MIDI files from The Future sample pack. Created using duplication up at 528 bars, 250 epochs (Val loss: 4.33)
