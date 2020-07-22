@@ -20,6 +20,8 @@ Trap model was created using all files in 5P collection
 
 ### 2-step-UKGarage-135
 
-2-2tep model using 8 MIDI files from The Future sample pack. Created using duplication up at 576 bars, 250 epochs (Val loss: 13.18)
+2-step model using 8 MIDI files from The Future sample pack. Created using duplication up at 576 bars, 250 epochs (Val loss: 13.18)
 
+### 2-step-all-Future-Step
 
+Model created using all MIDI files from Future Step sample pack. 304 bars, 250 epochs (Val loss: 72.04)
